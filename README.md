@@ -64,6 +64,12 @@ To develop an intelligent and ethical system that:
 
 ---
 
+## Code Link
+
+https://colab.research.google.com/drive/1CNc1PGUkUDd4mFW6zMNhQRoLzNZEyDbF?usp=sharing
+
+---
+
 ## Ethical Considerations
 
 - **Bias Reduction**: Diverse datasets and prompt control.
